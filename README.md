@@ -1,5 +1,7 @@
 # algorithm
 algorithm_hajimenoippo_kannzennnkouryaku
 
-Original Creator:Otyamura
-Forked by VolgaKurvar.
+Original Creator:Otyamura<br>
+Forked by VolgaKurvar.<br>
+<br>
+俺は神だが？<br>
